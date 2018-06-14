@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog>
+   <song id="s1">
+      <title>Imagine</title>
+      <genre>Rock</genre>
+      <singer>John Lennon</singer>
+   </song>
+   <song id="s2">
+      <title>Sumertime</title>
+      <genre>Jazz</genre>
+      <singer>Ella Fitzgerald</singer>
+   </song>
+</catalog>

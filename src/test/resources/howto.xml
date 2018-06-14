@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE howto SYSTEM "howto.dtd">
+<howto>
+  <topic>
+      <title>Java</title>
+      <url>http://www.test.com/topics/java-xml.html</url>
+  </topic>
+    <topic>
+      <title>Angular</title>
+      <url>http://www.test.com/topics/pb-powerscript.htm</url>
+  </topic>
+  <topic>
+        <title>Javascript</title>
+        <url>http://www.test.com/topics/js-language.html</url>
+  </topic>
+  <topic>
+        <title>VBScript</title>
+        <url>http://www.test.com/topics/wsh-vbs.html</url>
+  </topic>
+</howto>
