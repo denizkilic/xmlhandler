@@ -5,7 +5,6 @@ public final class TestConstants {
     private TestConstants() {
 
     }
-
     public static final String howToXmlPathName = "src/test/resources/howto.xml";
     public static final String nonExistentXmlPathName = "src/test/resources/nonexistent.xml";
     public static final String booksXmlPathName = "src/test/resources/books.xml";
